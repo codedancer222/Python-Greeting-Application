@@ -59,7 +59,7 @@ To run these scripts, you need `Python`, and the `json module` which comes pre-i
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/farhan7reza7/Python-Greeting-Application.git
+git clone https://github.com/brankopoledic/Python-Greeting-Application.git
 ```
 
 2. Navigate to the repository directory in your terminal:
